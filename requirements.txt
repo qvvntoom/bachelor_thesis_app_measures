@@ -6,7 +6,7 @@ scikit-learn
 pingouin
 scipy
 PyPDF2
-opencv-python
+opencv-python-headless
 scikit-image
 Pillow
 joblib
